@@ -23,7 +23,7 @@ use_math: true
 ### Overview
 
 Physics 482, Electricity and Magnetism 2, is the second semester of our
-two-semester sequence of junior-level classical electromagnetism. I
+two-semester sequence of junior-level classical electromagnetism.
 
 #### Required purchases:
 
@@ -139,7 +139,7 @@ homework (!!)
 often did poorly in the class.
 - students reported learning a tremendous amount in this class.
 
-**The course topics that we will cover in Physics 481 are among the
+**The course topics that we will cover in Physics 482 are among the
 greatest intellectual achievements of humans. Don't be surprised if you
 have to think hard and work hard to master the material.**
 
