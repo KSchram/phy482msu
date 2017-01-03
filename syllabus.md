@@ -13,19 +13,22 @@ use_math: true
 ### Contact Information
 
 -   Instructor: [Prof. Danny Caballero](http://dannycab.github.io)
--   Class Meetings: MWF 12:40 PM - 1:30 PM (1415 BPS)
+-   Class Meetings: MWF 1:50 PM - 2:40 PM (1420 BPS)
 -   Instructor: <caballero@pa.msu.edu>, cell: (517) 420-5330, office:
     1310-A BPS
 -   Office hrs: Open door policy. I enjoy visiting and talking with you about physics.
 -   Web page:
     [dannycab.github.io/phy482msu/](http://dannycab.github.io/phy482msu/)
 
-### Overview
+### Piazza Discussion Forum
+*This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. Find our class page at: <https://piazza.com/msu/spring2017/phy482/home>*
+
+## Overview
 
 Physics 482, Electricity and Magnetism 2, is the second semester of our
 two-semester sequence of junior-level classical electromagnetism.
 
-#### Required purchases:
+### Required purchases:
 
 1.  J.D. Griffiths. [*Introduction to Electromagnetism*, 4th
     Edition](http://goo.gl/iU6MdA) (Pearson; 2012). This book is
@@ -37,9 +40,13 @@ two-semester sequence of junior-level classical electromagnetism.
 2.  An "iClicker", available at the bookstore, will be used
     every lecture.
 
-### Course Activities
+### Course Philosophy
 
-#### Readings
+
+
+## Course Activities
+
+### Readings
 
 Reading is an essential part of 482! Reading the text before class is
 very important. Lecture is to clarify your understanding, to help you
@@ -49,7 +56,7 @@ texts I know of - it will make a huge difference if you spend the time
 and effort to carefully read and follow the text. The
 [calendar](./calendar.html) has the details on reading assignments.
 
-#### Class Meetings
+### Class Meetings
 
 Classroom Etiquette: Please turn off all cell phones and pagers when
 entering any classroom. Please do not throw vegetables at the
@@ -57,14 +64,39 @@ instructor. Private chatter during lecture is very distracting, but it
 is perfectly OK to interrupt the lecture by yelling "Question!"
 Questions in lecture are always good, and are strongly encouraged!
 
-#### Homework
+**Clickers:** Clickers are pure extra credit: the total number of clicker questions you answer divided by the total number asked this term earns you up to 5% extra credit on your final average.
 
-There will be a homework due every Friday at the start of class. Late
+### Homework
+
+There will be a homework due every Monday at the start of class. Late
 homework can't be accepted once solutions are posted - but, your lowest
 score will be dropped. Homework is exceedingly important for developing
 an understanding of the course material, not to mention building skills
 in complex physical and mathematical problem solving. They will require
-considerable time and personal effort this term!
+considerable time and personal effort this term! *Your lowest homework grade will be dropped.*
+
+There are three kinds of homework problems in this class:
+
+* **Standard Homework Problems**
+  * These are regular back-of-the-book type homework problems that involve derivations, calculations, figures, and graphs. If you took 481, there will be fewer of these in 482.
+  * As we have no assigned grader, each question will be coarsely graded for "completion"
+    * 10 pts. complete
+    * 8 pts. right idea, but incomplete
+    * 4 pts. relatively incomplete
+    * 0 pts. not turned in
+* **Project Homework Problems**
+  * These are homework problems to support your working towards completing your individual and paired projects (see below). *Projects are difficult to complete, so having some regular check-ins on how those projects are going, setting milestones to complete, and producing a semi-complete piece of a project are all important aspects of research!* These homework problems are meant to help you make that progress each week.
+  * They count twice as much as normal homework problems, but follow a similar grading scale:
+    * 20 pts. complete
+    * 16 pts. right idea, but incomplete
+    * 8 pts. relatively incomplete
+    * 0 pts. not turned in
+  * You will be given detailed feedback on these homework problems as you are working on bigger projects throughout this class. You should read and be responsive to this feedback as it will help you develop a strong project.
+* **Self-reflection Homework Problems**
+  * These are homework problems that ask you to evaluate your progress on your projects and how you and your partner are working together. *Evaluating how well you understand something and what you need to do to move forward is a hard thing to learn. So is working on a team (or with a partner).* These homework problems are meant to help you do both and get feedback from me on how things are going.
+  * These problems are graded out of 10 points like regular homework problems on the same 10-8-4-0 scale.
+  * You will also be given detailed feedback on these homework problems.
+
 
 *I strongly encourage collaboration*, an essential skill in science and
 engineering (and highly valued by employers!) Social interactions are
@@ -92,14 +124,24 @@ will need to get up and running with Jupyter notebooks.
 
 **[Installing Jupyter Notebooks](http://jupyter.readthedocs.io/en/latest/install.html)**
 
-#### Help Sessions
+### Help Session
 
-(Times listed at the top of the syllabus) Help sessions/office hours are to facilitate your learning. We encourage attendance - plan on working in small groups, our role will be as learning coaches. Both sessions are homework-centric, but we will not be explicitly telling anyone how to do the homework (how would that help you learn?) I strongly encourage you to start all problems on your own. If you come to help sessions "cold", the value of homework to you will be greatly reduced.
+Details forthcoming...
+<!--- (Times listed at the top of the syllabus) Help sessions/office hours are to facilitate your learning. We encourage attendance - plan on working in small groups, our role will be as learning coaches. Both sessions are homework-centric, but we will not be explicitly telling anyone how to do the homework (how would that help you learn?) I strongly encourage you to start all problems on your own. If you come to help sessions "cold", the value of homework to you will be greatly reduced.--->
 
-### Grading and Exams
+### Projects
+
+## Grading
+
+| Activity                              |            Date           | Percent of Grade |
+|---------------------------------------|:-------------------------:|-----------------:|
+| Homework (14 total; 1 dropped)        | Due Mon at start of class |              40% |
+| In-Class Quizzes  (7 total; 1 dropped)| Every other Friday        |              20% |
+| Individual Project                    | Fri Mar 3                 |              20% |
+| Pair Project                          | Mon May 1                 |              20% |
 
 
-### What we cover, and why:
+## What we cover, and why:
 
 
 ### Comments on preparation:
@@ -143,6 +185,6 @@ often did poorly in the class.
 greatest intellectual achievements of humans. Don't be surprised if you
 have to think hard and work hard to master the material.**
 
-### Handling Emergency Situations
+## Handling Emergency Situations
 
 *In the event of an emergency arising within the classroom, Prof. Caballero will notify you of what actions that may be required to ensure your safety. It is the responsibility of each student to understand the evacuation, “shelter-in-place,” and “secure-in-place” guidelines posted in each facility and to act in a safe manner. You are allowed to maintain cellular devices in a silent mode during this course, in order to receive emergency SMS text, phone or email messages distributed by the university. When anyone receives such a notification or observes an emergency situation, they should immediately bring it to the attention of Prof. Caballero in a way that causes the least disruption. If an evacuation is ordered, please ensure that you do it in a safe manner and facilitate those around you that may not otherwise be able to safely leave. When these orders are given, you do have the right as a member of this community to follow that order. Also, if a shelter-in-place or secure-in-place is ordered, please seek areas of refuge that are safe depending on the emergency encountered and provide assistance if it is advisable to do so.*
