@@ -94,17 +94,88 @@
         <article>
 
   <div class="post-content">
-    <p style="color:purple">This homework is ready once this message has been removed.</p>
-
-<h2 id="sketching">1. Sketching</h2>
+    <h2 id="sketching">1. Sketching</h2>
 
 <ol>
-  <li>Make a quick sketch, in the x-y plane, of the following (two-dimensional) vector function.
-Plot enough different vectors to give a feeling for what this field looks like in the x-y plane.</li>
-  <li>Explain briefly in words what this plot is showing. (Is it physically realizable?)</li>
-  <li>Do the same as above for the field<br />
-(Here, I am assuming we are in 3-D spherical coordinates, but there is no azimuthal dependence. How should you “sketch” this?) (Where have you seen this field before?)</li>
+  <li>Make a quick sketch, in the x-y plane, of the following (two-dimensional) vector function. Plot enough different vectors to give a feeling for what this field looks like in the x-y plane.
+<script type="math/tex">\dfrac{x}{\left(x^2+y^2\right)^{3/2}}\hat{\mathbf{x}}+\dfrac{y}{\left(x^2+y^2\right)^{3/2}}\hat{\mathbf{y}}</script></li>
+  <li>Explain briefly in words what this plot is showing. Is it physically realizable?</li>
+  <li>Do the same as above for the field:
+<script type="math/tex">\left(2\cos \theta\,\hat{\mathbf{r}} + \sin \theta\,\hat{\mathbf{\theta}}\right)/r^3</script><br />
+(Here, I am assuming we are in 3-D spherical coordinates, but there is no azimuthal dependence. How should you “sketch” this?) Where have you seen this field before?</li>
 </ol>
+
+<h2 id="divergence-and-curl-of-a-vector-field">2. Divergence and Curl of a Vector Field</h2>
+
+<p>For each of the vector fields sketched below:</p>
+
+<ol>
+  <li>Which of them have nonzero divergence somewhere? If the divergence is nonzero only at isolated points, which point(s) would that be?</li>
+  <li>Which of the following fields have nonzero curl somewhere? If the curl is nonzero only at isolated points, which point(s) would that be?</li>
+</ol>
+
+<p>A. <img src="./images/hw1/a.png" alt="Image A" /></p>
+
+<p>(Note: All arrows are the same length)</p>
+
+<p>B. <img src="./images/hw1/b.png" alt="Image B" /></p>
+
+<p>(Note: Arrows have no length in the middle)</p>
+
+<p>C. <img src="./images/hw1/c.png" alt="Image C" /></p>
+
+<p>(Note: Arrows growing in length as $r^2$)</p>
+
+<p>D. <img src="./images/hw1/d.png" alt="Image D" /></p>
+
+<p>E. <img src="./images/hw1/e.png" alt="Image E" /></p>
+
+<p>(Note: Arrows decreasing in length as $1/r^2$.  Think of a “Coulomb field” of a point charge here…)</p>
+
+<h2 id="a-few-short-computations">3. A few short computations</h2>
+
+<ol>
+  <li>Compute the divergence and curl of $(x+y)\hat{\mathbf{i}}+(y+z)\hat{\mathbf{j}}+(x-2z)\hat{\mathbf{k}}$.</li>
+  <li>Could this field be a physical electrostatic field in some limited region of space near the origin? Very briefly, explain your reasoning.</li>
+  <li>Given the following mathematical form for a volume charge density $\rho(\mathbf{r})$, describe the charge distribution in words, and also draw a little sketch showing where the charges are: $\rho(\mathbf{r}) = a\delta^3(\mathbf{r}-\mathbf{R}) + b\delta(r-R)$, where $a$, $b$ are given constants with appropriate units, $\mathbf{R}=\langle 2,0,0\rangle$, and as usual $r = \lvert\mathbf{r}\rvert$.</li>
+  <li>What are the (SI metric) units of $a$ and $b$ in the charge density expression above?</li>
+  <li>What is the total charge, in terms of the given constants in the equation?</li>
+</ol>
+
+<h2 id="the-electric-field-and-gauss-law">4. The Electric Field and Gauss’ Law</h2>
+
+<ol>
+  <li>What exactly is $\mathbf{E}$, the electric field? Define it. How do you think about it, both mathematically and in words. Please define any technical words you introduce.</li>
+  <li>Gauss’ Law states: $\oint_S \mathbf{E}\cdot\hat{\mathbf{n}}\,dA = \frac{q_{enclosed}}{\varepsilon_0}$
+Suppose I evenly fill a cube (length $L$ on a side) with electric charge. I then imagine a larger, closed cubical surface neatly surrounding this cube (length $2L$ on a side). Can you use Gauss’ law (above) to simply compute the value of the electric field at arbitrary points outside the charged cube? (Don’t try, just tell me if you could, and why/why not?)</li>
+</ol>
+
+<h2 id="field-charge-and-voltage">5. Field, Charge, and Voltage</h2>
+
+<p>Given that an electric field in some region of space is given by $\mathbf{E}(x,y,z) = cy\hat{\mathbf{j}}$, where $c$ is a given constant.</p>
+
+<ol>
+  <li>What are the SI units of c?</li>
+  <li>What, if anything, can you tell us about the charge density throughout this region, $\rho(x,y,z)$?</li>
+  <li>What is the voltage associated with this E field? (Is your answer unique?)</li>
+</ol>
+
+<h2 id="the-magnetic-field">6. The Magnetic Field</h2>
+
+<p>You have an infinitely tall, infinitesimally thin cylindrical sheet of surface current running around the $z$-axis, i.e., $\mathbf{K} = K_0 \hat{\phi}$ at $s=R$ (otherwise 0), as shown below.</p>
+
+<p><img src="./images/hw1/K_phi.png" alt="K in phi direction" /></p>
+
+<ol>
+  <li>What are the SI units of $K_0$?</li>
+  <li>Sketch the magnitude of the resulting $B$ field as a function of radial distance, $s$
+(both inside and outside the sheet).</li>
+  <li>Briefly, show/explain your work for part 2. (<em>If you grabbed a formula from Griffiths, explain concisely where it comes from.</em>)</li>
+</ol>
+
+<h2 id="project-problem---what-is-interesting">7. Project Problem - What is interesting?</h2>
+
+<p>This problem is to help you get started on your individual research project. First, define your phenomenon: what is it and why is it interesting to you? Find a few papers (at least 4) that you can use to start your background research. Please give the full references to these papers. Write 2 to 3 paragraphs that describe your phenomenon and your interest in it.</p>
 
   </div>
 
