@@ -1,11 +1,10 @@
 ---
 layout: homework
 use_math: true
+title: Homework 1 (Due. Jan 16)
 ---
 
 <p style="color:purple">This homework is ready once this message has been removed.</p>
-
-# Homework 1 (Due. Jan 16)
 
 ## 1. Sketching
 
