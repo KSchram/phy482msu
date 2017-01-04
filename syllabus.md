@@ -5,8 +5,6 @@ permalink: index.html
 use_math: true
 ---
 
-<p style="color:purple">Details of this syllabus are tentative until this message is removed.</p>
-
 ## Electricity and Magnetism II Spring 2017
 [Course Learning Goals](./learning_goals.html)
 
