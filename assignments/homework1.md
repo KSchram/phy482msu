@@ -4,6 +4,8 @@ use_math: true
 title: Homework 1 (Due. Jan 16)
 ---
 
+<p style="color:purple">Homework is ready once this message is removed.</p>
+
 ## 1. Sketching
 
 1. Make a quick sketch, in the x-y plane, of the following (two-dimensional) vector function. Plot enough different vectors to give a feeling for what this field looks like in the x-y plane.
