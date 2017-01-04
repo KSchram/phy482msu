@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: homework
 use_math: true
 ---
 
 <p style="color:purple">This homework is ready once this message has been removed.</p>
 
-## Homework 1 (Due. Jan 16)
+# Homework 1 (Due. Jan 16)
 
-### 1. Sketching
+## 1. Sketching
 
 1. Make a quick sketch, in the x-y plane, of the following (two-dimensional) vector function.
 Plot enough different vectors to give a feeling for what this field looks like in the x-y plane.
