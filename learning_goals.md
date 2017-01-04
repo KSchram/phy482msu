@@ -8,7 +8,7 @@ use_math: true
 ### Course-Scale Learning Goals
 
 1. Build on earlier material: Students should deepen their understanding of introductory electromagnetism, junior-level E&M, and necessary math skills (in particular, vector calculus and differential equations).
-2. Maxwell's equations: Students should see the various topics in the course as part of a coherent theory of electromagnetism; i.e., as a consequence of Maxwell's equations.
+2. Maxwell's equations: Students should see the various topics in the course as part of a coherent theory of electromagnetism; i.e., as a consequence of Maxwell'zeys equations.
 3. Math/physics connection: Students should be able to translate a description of a junior-level E&M problem into the mathematical equation(s) necessary to solve it; explain the physical meaning of the final solution, including how this is reflected in its mathematical formulation; and be able to achieve physical insight through the mathematics of a problem.
 4. Visualization: Students should be able to sketch the physical parameters of a problem (e.g., electric or magnetic fields, and charge distributions). They should be able to use a computer program to graph physical parameters, create animations of time-dependent solutions, and compare analytic solutions with computations. Students should recognize when each of the two methods (by hand or computer) is most appropriate.
 5. Organized knowledge: Students should be able to articulate the important ideas from each chapter, section, and/or lecture, thus indicating how they have organized their content knowledge. They should be able to filter this knowledge to access the information they'll need to solve a particular physics problem, and make connections between different concepts.
