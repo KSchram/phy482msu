@@ -63,7 +63,7 @@ Question to you: When should we do this?
 
 *Times restricted by classroom availability*
 
-Reminder: Homework is due on Mondays.
+Reminder: Homework is due on Mondays (expect this first one).
 
 </section>
 
@@ -71,7 +71,7 @@ Reminder: Homework is due on Mondays.
 
 ## This Week!!!
 
-* Homework 1 is already up (Due Jan. 16)
+* Homework 1 is already up (Due Fri. Jan. 13)
 * Read (seriously do this!) Griffiths Ch 7.1.1-7.1.2 (Review? Chs 1-6)
 * [Download Anaconda distribution of Python](https://www.continuum.io/downloads)
 

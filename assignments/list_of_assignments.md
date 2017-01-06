@@ -4,4 +4,4 @@ layout: page
 permalink: ./assignments/
 ---
 
-* Homework 1 (Due Jan. 16) [[HTML]](./homework1.html)
+* Homework 1 (Due Jan. 13) [[HTML]](./homework1.html)
