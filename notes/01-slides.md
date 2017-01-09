@@ -37,10 +37,14 @@ piazza.com/msu/spring2017/phy482) (*Check your email*)
 <section data-markdown>
 
 ### Course Activities
-* Projects (2 of them; Mar 3 & May 1) - 20% each
-* In-Class Quizzes (7 of them; Every other Friday; 1 dropped) - 20%
-* Homework (14 of them; Due on Mondays; 1 dropped) - 40%
-* Clickers - Extra Credit - up to 5% bonus
+* Projects:
+  * 2 of them; Mar 3 & May 1 - 20% each
+* In-Class Quizzes:
+  * 7 of them; Every other Friday; 1 dropped - 20%
+* Homework:
+  * 14 of them; Due on Mondays; 1 dropped - 40%
+* Clickers:
+  * Pure Extra Credit - up to 5% bonus
 
 [Much more detail on website](http://dannycab.github.io/phy482msu/)
 
@@ -71,8 +75,9 @@ Reminder: Homework is due on Mondays (expect this first one).
 
 ## This Week!!!
 
-* Homework 1 is already up (Due Fri. Jan. 13)
-* Read (seriously do this!) Griffiths Ch 7.1.1-7.1.2 (Review? Chs 1-6)
+* Homework 1 is already up (Due Fri. Jan. 13 at 5pm)
+* Read (seriously do this!)
+  * Griffiths Ch 7.1.1-7.1.2 (Review? Chs 1-6)
 * [Download Anaconda distribution of Python](https://www.continuum.io/downloads)
 
 **Stay up-to-date by checking website, calendar, and discussion forum regularly.**
@@ -98,7 +103,7 @@ Reminder: Homework is due on Mondays (expect this first one).
 * Literature review of some interesting topic in E&M (3-4 pages)
 * Homework questions will support you on this
   * See syllabus for sample questions
-* Paper should be typed, inline references, bibiolography, etc.
+* Paper should be typed, inline references, bibliography, etc.
 * Evaluation rubric will be ready in a couple of weeks
 
 </section>
@@ -112,7 +117,7 @@ Reminder: Homework is due on Mondays (expect this first one).
 * Homework questions will support you on this
   * See syllabus for sample questions
 * Can be something that has been done before that you just extend
-* Evaluation rubric will be ready in a couple of weeks
+* Evaluation rubric will be ready in a few weeks
 * There will be a significant self-evaluation component to this also
 
 </section>
