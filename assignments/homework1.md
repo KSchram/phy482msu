@@ -8,7 +8,7 @@ title: Homework 1 (Due. Jan 13)
 
 1. Make a quick sketch, in the x-y plane, of the following (two-dimensional) vector function. Plot enough different vectors to give a feeling for what this field looks like in the x-y plane.
 $$\dfrac{x}{\left(x^2+y^2\right)^{3/2}}\hat{\mathbf{x}}+\dfrac{y}{\left(x^2+y^2\right)^{3/2}}\hat{\mathbf{y}}$$
-2. Explain briefly in words what this plot is showing. Is it physically realizable?
+2. Explain briefly in words what this plot is showing. Is it physically realizable as an electrostatic field?
 3. Do the same as above for the field:
 $$\left(2\cos \theta\,\hat{\mathbf{r}} + \sin \theta\,\hat{\mathbf{\theta}}\right)/r^3$$  
 (Here, I am assuming we are in 3-D spherical coordinates, but there is no azimuthal dependence. How should you "sketch" this?) Where have you seen this field before?
