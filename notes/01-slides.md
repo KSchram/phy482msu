@@ -42,7 +42,7 @@ piazza.com/msu/spring2017/phy482) (*Check your email*)
 * In-Class Quizzes:
   * 7 of them; Every other Friday; 1 dropped - 20%
 * Homework:
-  * 14 of them; Due on Mondays; 0 dropped - 40%
+  * 14 of them; Due on Mondays; 1 dropped - 40%
 * Clickers:
   * Pure Extra Credit - up to 5% bonus
 
