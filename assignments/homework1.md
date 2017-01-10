@@ -88,6 +88,10 @@ In this problem, use a Jupyter notebook to plot the field of:
 
 You might want to review homework sets from PHY 481 or just look up how to use [quiver plot with Matplotlib](http://matplotlib.org/examples/pylab_examples/quiver_demo.html).
 
+**You will turn this in using a GitHub repository [HW1Q7-Making Plots](https://classroom.github.com/assignment-invitations/78aa7c911d84cbe22d6368882c8b638b)**
+
 ## 8. Project Problem - What is interesting?
 
 This problem is to help you get started on your individual research project. First, define your phenomenon: what is it and why is it interesting to you? Find a few papers (at least 4) that you can use to start your background research. Please give the full references to these papers. Write 2 to 3 paragraphs that describe your phenomenon and your interest in it.
+
+**You will turn this in using a GitHub repository [HW1Q8-Project](https://classroom.github.com/assignment-invitations/3f696968d8ebbe12577d71d8c00565d5)**
