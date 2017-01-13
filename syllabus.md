@@ -15,7 +15,7 @@ use_math: true
 -   Instructor: <caballero@pa.msu.edu>, cell: (517) 420-5330, office:
     1310-A BPS
 -   Office hrs: Open door policy. I enjoy visiting and talking with you about physics.
--   **Help Session:** Thursdays 4-5pm in 1240 BPS
+-   **HW Help Session:** Thursdays 4-5pm in 1240 BPS
 -   Web page:
     [dannycab.github.io/phy482msu/](http://dannycab.github.io/phy482msu/)
 
