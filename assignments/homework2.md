@@ -73,5 +73,4 @@ Starting from your proposed list of articles, you will begin to construct an ann
 
 For this week, read and summarize 2 of the 4 relevant journal articles. While working through each paper think about the following questions to guide your summary of each: What does the paper say about your phenomenon? How are the theoretical models constructed? What assumptions and approximations are being made? What are the predictions and implications? What more do you need to know to understand this article? For this first summary, I expect you to write 2-3 paragraphs per article that you summarize. You may include equations and figures, but they do not count towards the total number of paragraphs.
 
-**You will turn this in using a GitHub repository [HW2Q6-StartingBibliography]
-(https://classroom.github.com/assignment-invitations/c05ae6101aba7cc743e714d1920b9716)**
+**You will turn this in using a GitHub repository [HW2Q6-StartingBibliography](https://classroom.github.com/assignment-invitations/c05ae6101aba7cc743e714d1920b9716)**
