@@ -109,3 +109,14 @@ Note:
 * Correct Answer: A (otherwise current leaks out or there's accumulation!)
 
 </section>
+
+<section data-markdown>
+
+**Activity:** Consider two cylinders (radii $a$ and $b$ with $b$>$a$) that are constructed so that the larger one surrounds the smaller one. Between them is a material with conductivity $\sigma$. The cylinders are long, but we consider just a length $L$. A potential difference of $V$ is maintained between them with the inner cylinder at higher potential.
+
+* What is the current $I$ flowing between them in terms of the known variables?
+* How does your result relate to Ohm's Law?
+
+Hint: Assume a uniform $+\lambda$ for the inner cylinder and use Gauss' Law to find $\mathbf{E}$.
+
+</section>
