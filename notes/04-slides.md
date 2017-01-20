@@ -92,31 +92,3 @@ Magnitude of E field, Conductivity, Current, & Current Density
 
 
 </section>
-
-<section data-markdown>
-
-Inside this resistor setup, what can you conclude about the current density $\mathbf{J}$ near the side walls (in steady state)?
-
-<img src="./images/shaped_resistor.png" align="center" style="width: 600px";/>
-
-
-1. Must be exactly parallel to the wall
-2. Must be exactly perpendicular to the wall
-3. Could have a mix of parallel and perp components
-4. No obvious way to decide!?
-
-Note:
-* Correct Answer: A (otherwise current leaks out or there's accumulation!)
-
-</section>
-
-<section data-markdown>
-
-**Activity:** Consider two cylinders (radii $a$ and $b$ with $b$>$a$) that are constructed so that the larger one surrounds the smaller one. Between them is a material with conductivity $\sigma$. The cylinders are long, but we consider just a length $L$. A potential difference of $V$ is maintained between them with the inner cylinder at higher potential.
-
-* What is the current $I$ flowing between them in terms of the known variables?
-* How does your result relate to Ohm's Law?
-
-Hint: Assume a uniform $+\lambda$ for the inner cylinder and use Gauss' Law to find $\mathbf{E}$.
-
-</section>
