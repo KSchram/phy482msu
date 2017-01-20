@@ -20,6 +20,15 @@ Inside this resistor setup, (real world, finite sizes!) What does the E field lo
 
 <section data-markdown>
 
+
+## Register your clicker
+
+Go to [https://www1.iclicker.com/register-clicker/](https://www1.iclicker.com/register-clicker/) and register your clicker.
+
+</section>
+
+<section data-markdown>
+
 Inside this resistor setup, what can you conclude about the current density $\mathbf{J}$ near the side walls (in steady state)?
 
 <img src="./images/shaped_resistor.png" align="center" style="width: 600px";/>
