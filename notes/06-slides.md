@@ -36,6 +36,45 @@ Note:
 
 </section>
 
+
+<section data-markdown>
+
+Quiz #1 was a fair assessment.
+
+1. Strongly Agree
+2. Agree
+3. Neutral
+4. Disagree
+5. Strongly Disagree
+
+</section>
+
+<section data-markdown>
+
+I had enough time to complete Quiz #1.
+
+1. Strongly Agree
+2. Agree
+3. Neutral
+4. Disagree
+5. Strongly Disagree
+
+</section>
+
+<section data-markdown>
+
+## Announcements
+
+* Quiz #1 is graded. Average: 83%
+  * Would you like emailed grade reports after each quiz?
+* Homework 3 is posted; Due Monday Jan 30th
+  * Turn in to Kim Crosslan by 4pm
+* **No Class on Monday, Jan 30**  - DC out of town
+  * Will be available by text and email
+  * Homework 4 will be posted
+
+</section>
+
 <section data-markdown>
 
 $\mathcal{E} = \oint \mathbf{E} \cdot d\mathbf{l}$
