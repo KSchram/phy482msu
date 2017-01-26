@@ -11,6 +11,7 @@ title: Homework 3 (Due. Jan 30)
 [homopolar]: ./images/hw3/homopolar_motor.png
 
 Michael Faraday came up with a relatively simple DC generator called a homopolar generator (shown above).  A conducting wheel of diameter $D$ rotates with angular velocity $\omega$ in a uniform B-field oriented along the wheel axis.  Sliding contacts make an electrical connection between the center of the wheel and the edge, as shown, and an EMF is induced across a load resistance $R$.
+
 1. Show that the power dissipated in the resistor is $??\omega^2B^2D^4/R$, (where the "??" is some numerical constant out front. Is it 1, 0.5, $\pi$,...?)
 2. How fast would a 1 m diameter generator in a 0.2 Tesla magnetic field have to rotate to produce an EMF of 120 V?  (answer in Hz, please).
 
@@ -21,6 +22,7 @@ Michael Faraday came up with a relatively simple DC generator called a homopolar
 [AC]: ./images/hw3/AC_generator.png
 
 A square loop with side $a$ is mounted on a horizontal axis and rotates with a steady frequency $f$ (rotations/sec.) A uniform magnetic field $B$ points left to right between the two pole faces.  The figure shows the configuration at time t=0. (No flux at this instant!)  
+
 1. If the output is connected to a load resistance $R$, calculate the instantaneous and average power dissipated in the resistor.
 2. Compare your results to the mechanical power needed to turn the loop. (*Hint: recall from mechanics that the mechanical power to turn a loop is given by power= torque*angular velocity, in direct analogy to power = force * velocity*)
 3.  If the rotation rate is 60 Hz, the loop has area 0.02$\mathrm{m}^2$, and the B-field is 0.2T, about how many turns of wire would you need to produce a standard 120 V (RMS) output? Note: RMS means "Root mean square", do you remember the connection between $V_{max}$ and $V_{RMS}$?  *Just FYI, a variant is to hold the loop fixed (the stator) with an electromagnet coil (the rotor) rotated around the stator. This configuration is called an alternator.*
