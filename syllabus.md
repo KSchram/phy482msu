@@ -11,7 +11,7 @@ use_math: true
 ### Contact Information
 
 -   Instructor: [Prof. Danny Caballero](http://dannycab.github.io)
--   Class Meetings: MWF 1:50 PM - 2:40 PM (1420 BPS)
+-   Class Meetings: MWF 1:50 PM - 2:40 PM (1240 BPS)
 -   Instructor: <caballero@pa.msu.edu>, cell: (517) 420-5330, office:
     1310-A BPS
 -   Office hrs: Open door policy. I enjoy visiting and talking with you about physics.
