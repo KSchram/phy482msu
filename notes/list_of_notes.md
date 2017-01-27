@@ -11,3 +11,4 @@ permalink: notes/index.html
 * Lecture 5 (January 20th): Ohm's Law [[HTML]](./05-slides.html) [[PDF]](./05-slides.pdf)
 * Lecture 6 (January 23rd): Electromotive Force [[HTML]](./06-slides.html) [[PDF]](./06-slides.pdf)
 * Lecture 7 (January 25th): The Motional EMF [[HTML]](./07-slides.html) [[PDF]](./07-slides.pdf)
+* Lecture 8 (January 27th): Introduction to Faraday's Law [[HTML]](./08-slides.html) [[PDF]](./08-slides.pdf)
