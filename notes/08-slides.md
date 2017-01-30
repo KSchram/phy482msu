@@ -179,7 +179,7 @@ The current in an infinite solenoid of radius $R$ with uniform magnetic field $\
 3. Need more information
 
 Note:
-* Correct Answer: A
+* Correct Answer: B
 </section>
 
 <section data-markdown>
