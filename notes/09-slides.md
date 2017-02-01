@@ -26,7 +26,7 @@ Note:
 ## Announcements
 
 * Homework 4 is posted
-  * Due in class on Friday!
+  * Due in class on Monday!
   * Project problem - starting to write your paper (give yourself time to write).
 * Quiz 2 - This Friday (Motional EMF)
   * Discuss the differences between:
