@@ -12,4 +12,5 @@ permalink: notes/index.html
 * Lecture 6 (January 23rd): Electromotive Force [[HTML]](./06-slides.html) [[PDF]](./06-slides.pdf)
 * Lecture 7 (January 25th): The Motional EMF [[HTML]](./07-slides.html) [[PDF]](./07-slides.pdf)
 * Lecture 8 (January 27th): Introduction to Faraday's Law [[HTML]](./08-slides.html) [[PDF]](./08-slides.pdf)
-* Lecture 9 (February 1st): Faraday's Law and Inductance [[HTML]](./09-slides.html) [[PDF]](./09-slides.pdf)
+* Lecture 9 (February 1st): Faraday's Law [[HTML]](./09-slides.html) [[PDF]](./09-slides.pdf)
+* Lecture 10 (February 3rd): Inductance [[HTML]](./10-slides.html) [[PDF]](./10-slides.pdf)
