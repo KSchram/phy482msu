@@ -104,8 +104,7 @@ You will be given detailed feedback on these project homework problems as you ar
 
 ### Help Session
 
-Details forthcoming...
-<!--- (Times listed at the top of the syllabus) Help sessions/office hours are to facilitate your learning. We encourage attendance - plan on working in small groups, our role will be as learning coaches. Both sessions are homework-centric, but we will not be explicitly telling anyone how to do the homework (how would that help you learn?) I strongly encourage you to start all problems on your own. If you come to help sessions "cold", the value of homework to you will be greatly reduced.--->
+Times listed at the top of the syllabus) Help sessions/office hours are to facilitate your learning. We encourage attendance - plan on working in small groups, our role will be as learning coaches. The sessions are homework-centric, but we will not be explicitly telling anyone how to do the homework (how would that help you learn?) I strongly encourage you to start all problems on your own. If you come to help sessions "cold", the value of homework to you will be greatly reduced.
 
 ### In-Class Quizzes
 
@@ -139,6 +138,10 @@ There will be seven homework questions that help you develop your individual pro
 
 
 After Homework 7 (Fri. Mar 3), your paper is due. It should be 3-4 pages long not counting figures, equations, and references! It should fully describe all the aspects of the phenomenon that are being modeled including how the phenomenon is modeled, what predictions/implications they are, how it is connected to experiments, and what limitations there are in the modeling of it. There should be about 6-10 references to articles appearing in your paper. You have been continually reading about the topic, right?
+
+#### Grading the individual project
+
+A rubric for the individual project [appears here](./paperrubric.html). Notice that the rubric emphasizes several aspects of the paper with different weights. Each category will be scored on the following scale (4.0, 3.5, 3.0, 2.0, 0.0) and then averaged together using the weights for each category. You final grade will be this averaged score converted to a 100 point scale.
 
 #### Pair Project
 
