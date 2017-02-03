@@ -17,6 +17,8 @@ Somewhere in space a magnetic field is changing with time, there are no other so
 Note:
 * Correct Answer: E
 
+</section>
+
 <section data-markdown>
 
 <img src="./images/solenoid_w_loop_mutual.png" align="right" style="width: 300px";/>
