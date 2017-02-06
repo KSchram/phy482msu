@@ -59,7 +59,7 @@ The following LR circuit is driven by an AC voltage source $V_{in} = V_0 \cos(\o
 1. Using complex analysis (the phasor method) solve for the "true" current $I_{true}$ in this circuit: $I_{true} = Re[I]$.
 2. Solve for the complex ratio $V_{out} / V_{in}$ (give the magnitude and phase of this ratio) as a function of frequency. Check that your answer makes sense in the limits $\omega \rightarrow 0$ and $\omega \rightarrow \infty$.
 3.  **Using a jupyter notebook**, graph the magnitude of $V_{out} / V_{in}$ vs. frequency. How would you describe this filter? Is it a high-pass filter? Low-pass? Band-pass?
-4. Check your result in part 3 by considering an input signal that is a square wave, which can be constructed from a sum of sinusoidal functions. **In the same jupyter notebook**, graph $V_{in}$ as a function of time. Then determine $V_{out}$ as a function of time and plot it. Think before doing a lot of mathematics! All the equations are linear, so if the input square wave is constructed from the sum of sinusoidal functions, what does the output look like?
+4. **BONUS (10 pts)**: Check your result in part 3 by considering an input signal that is a square wave, which can be constructed from a sum of sinusoidal functions. **In the same jupyter notebook**, graph $V_{in}$ as a function of time. Then determine $V_{out}$ as a function of time and plot it. Think before doing a lot of mathematics! All the equations are linear, so if the input square wave is constructed from the sum of sinusoidal functions, what does the output look like?
 
 $$V_{in}(t) = \dfrac{4}{\pi}\sum_{k=1}^\infty \dfrac{\sin((2k-1)\omega t)}{2k-1}$$
 
