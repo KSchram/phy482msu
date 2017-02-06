@@ -102,14 +102,3 @@ What is $\vert 2+i \vert$?
 Note:
 * Correct Answer: D
 </section>
-
-<section data-markdown>
-
-Which point below best represents $4e^{i3\pi/4}$ on the complex plane?
-
-<img src="./images/complex_numbers_graph.png" align="center" style="width: 600px";/>
-
-Note:
-* Correct Answer: D
-
-</section>
