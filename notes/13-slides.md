@@ -21,6 +21,15 @@ Note:
 
 <section data-markdown>
 
+## Announcements
+* Quiz 3 (next Friday 2/17) - RLC circuits
+  * Solve a circuit problem using the phasor method
+  * Discuss limits on the response and how it might act as a filter
+
+</section>
+
+<section data-markdown>
+
 AC voltage $V$ and current $I$ vs time $t$ are as shown:
 
 <img src="./images/IV_graphs.png" align="center" style="width: 600px";/>
