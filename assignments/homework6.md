@@ -37,7 +37,9 @@ Consider a straight wire that runs from $z=-\infty$ to $z=0$ that has a steady c
 
 1. Determine the electric field produced by the charge buildup.
 2. Determine the displacement current in terms of $I$. Think about how conservation of charge tells you about the relationship between $Q(t)$ and $I$.
-3. Find the resulting magnetic field everywhere in space. Did you remember the long wire? What loop and surfaces are you using to determine the magnetic field? Sketch a picture that makes it clear.
+3. In part 2, you should have found a sphereically symmetric result. Using Ampere's Law with a hemispherical cap (circular loop around the charge in the plane perpendicular to the long wire) in the positive z-direction, find the integral of $\oint \mathbf{B} \cdot d\mathbf{l}$.
+4. Using Ampere's Law with a hemispherical cap (circular loop around the charge in the plane perpendicular to the long wire) in the negative z-direction, find the integral of $\oint \mathbf{B} \cdot d\mathbf{l}$. Does this agree with part 3?
+5. **Bonus:** Find the resulting magnetic field everywhere in space. Did you remember the long wire? What loop and surfaces are you using to determine the magnetic field? Sketch a picture that makes it clear.
 
 
 ## 4. A Terminated Surface Current
