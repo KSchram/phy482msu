@@ -17,3 +17,4 @@ permalink: notes/index.html
 * Lecture 11 (February 6th): Introduction to RLC Circuits [[HTML]](./11-slides.html) [[PDF]](./11-slides.pdf)
 * Lecture 12 (February 8th): RLC Circuits and Phasors [[HTML]](./12-slides.html) [[PDF]](./12-slides.pdf)
 * Lecture 13 (February 10th): Phasors and Filters [[HTML]](./13-slides.html) [[PDF]](./13-slides.pdf)
+* Lecture 14 (February 13th): Maxwell's Equations [[HTML]](./14-slides.html) [[PDF]](./14-slides.pdf)
