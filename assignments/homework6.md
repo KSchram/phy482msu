@@ -42,7 +42,7 @@ Consider a straight wire that runs from $z=-\infty$ to $z=0$ that has a steady c
 
 ## 4. A Terminated Surface Current
 
-Consider a current with surface density $\mathbf{K} = -|K|\hat{x}$ that flows in a half-plane ($z=0$, $x>0$). The current results in a ccumulation of charge on the line boundary of the half-plane. The goals of this problem is to find the magnetic field everywhere.
+Consider a current with surface density $\mathbf{K} = -\vert K\vert\hat{x}$ that flows in a half-plane ($z=0$, $x>0$). The current results in a ccumulation of charge on the line boundary of the half-plane. The goals of this problem is to find the magnetic field everywhere.
 
 1. Determine the electric field produced by the charge buildup, for now you may use $\lambda(t)$.
 2. Determine the displacement current in terms of $\mathbf{K}$. Think about how conservation of charge tells you about the relationship between $\lambda(t)$ and $\mathbf{K}$.
