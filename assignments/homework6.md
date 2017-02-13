@@ -4,7 +4,7 @@ use_math: true
 title: Homework 6 (Due. Feb 20)
 ---
 
-## 1. Leading and Lagging
+## 1. Leading and Lagging Current
 
 The phase difference between different measurable aspects of a circuit (e.g., voltage and current) are important in a variety of experimental setups. In this question, you will explore this idea a bit more by doing some of your own research and critiquing two different ways of representing current and voltage measures.
 
