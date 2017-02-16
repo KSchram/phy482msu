@@ -44,7 +44,7 @@ Consider a straight wire that runs from $z=-\infty$ to $z=0$ that has a steady c
 
 ## 4. A Terminated Surface Current
 
-Consider a current with surface density $\mathbf{K} = -\vert K\vert\hat{x}$ that flows in a half-plane ($z=0$, $x>0$). The current results in a ccumulation of charge on the line boundary of the half-plane. The goals of this problem is to find the magnetic field everywhere.
+Consider a current with surface density $\mathbf{K} = -\vert K\vert\hat{x}$ that flows in a half-plane ($z=0$, $x>0$). The current results in an accumulation of charge on the line boundary of the half-plane. The goals of this problem is to find the magnetic field everywhere.
 
 1. Determine the electric field produced by the charge buildup, for now you may use $\lambda(t)$.
 2. Determine the displacement current in terms of $\mathbf{K}$. Think about how conservation of charge tells you about the relationship between $\lambda(t)$ and $\mathbf{K}$.
@@ -55,6 +55,7 @@ Consider a current with surface density $\mathbf{K} = -\vert K\vert\hat{x}$ that
 Last week, you built on your paper by adding to the summary that you wrote two weeks ago; filling it out with additional detail and responding to the feedback that you received. Like last week, you will be building and working towards finalizing a full draft of your paper. It doesn't have to be entirely done, that's what the next two weeks are for, but it should be getting close. Again, work to write something that is coherent and tells a complete story. Make sure that you think about the feedback that you received last week and the week before. Make sure you check it for spelling and grammar. This is your chance to really push out a good draft of your paper and get feedback from me before turining in the final project in two weeks.
 
 For this week, you should start thinking about:
+
 * What are the difficulties or successes connecting theory and experiment?
 * How can I dig deeper and explain in more detail what I've learned from the previous papers and the ones I'm reading currently?
 * What kind of feedback did I get about my previous summary and how do I improve on what I've done?
