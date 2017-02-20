@@ -20,3 +20,4 @@ permalink: notes/index.html
 * Lecture 14 (February 13th): Maxwell's Equations [[HTML]](./14-slides.html) [[PDF]](./14-slides.pdf)
 * Lecture 15 (February 15th): The Displacement Current [[HTML]](./15-slides.html) [[PDF]](./15-slides.pdf)
 * Lecture 16 (February 17th): Finalizing Maxwell's Equations [[HTML]](./16-slides.html) [[PDF]](./16-slides.pdf)
+* Lecture 17 (February 20th): Conservation Laws [[HTML]](./17-slides.html) [[PDF]](./17-slides.pdf)
