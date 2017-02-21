@@ -6,13 +6,13 @@ title: Homework 7 (Due. Feb 27)
 
 ## 1. Slowly accumulating charge
 
-Consider a volume current that is (very slowly) flowing towards the origin,
+Consider a volume current that is (very slowly) flowing towards the $z$-axis,
 
 $$\mathbf{J} = -\dfrac{\vert c \vert s}{2} \hat{s}.$$
 
-Charge begins to accumulate at the origin.
+Charge begins to accumulate along the $z$-axis.
 
-1. Find an expression for the charge accumulating at the origin as a function of time.
+1. Find an expression for the accumulating charge as a function of time.
 2. Determine the electric field at a distance $s$ from the $z$-axis as a function of time in all of space.
 3. Determine the magnetic field in all of space due to the volume current and the accumulating charge.
 4. Discuss your results in the context of conservation of energy. Which aspects of the energy are increasing/decreasing? What are you defining as the region of interest?
