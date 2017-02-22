@@ -59,4 +59,4 @@ We now want to investigate energy flow in a cylindrical coax cable. For now, let
 
 You have completed a full draft of your paper. Now it's time to write an abstract for this paper. An abstract summarizes your entire paper in a single paragraph. It should be self-contained and describe the entire paper in just a few sentences.
 
-**You will turn your notebook in using GitHub Classroom: [HW7Q5-Abstract](https://classroom.github.com/assignment-invitations/0b336501655b70a3d1aa7a0fba1ecb31)**
+**You will turn your abstract in using GitHub Classroom: [HW7Q5-Abstract](https://classroom.github.com/assignment-invitations/0b336501655b70a3d1aa7a0fba1ecb31)**

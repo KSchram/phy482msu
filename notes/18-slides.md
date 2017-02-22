@@ -6,14 +6,54 @@ transition: slide
 
 <section data-markdown>
 
+Our global statement of energy conservation is:
+$$\dfrac{dU_q}{dt} + \dfrac{dU_e}{dt} = -\iint \mathbf{S}\cdot d\mathbf{A}$$
+Which term describes that energy of the electromagnetic field?
+
+1. $\frac{dU_q}{dt}$
+2. $\frac{dU_e}{dt}$
+3. $-\iint \mathbf{S}\cdot d\mathbf{A}$
+4. ???
+
+Note:
+* Correct Answer: B
+</section>
+
+<section data-markdown>
+
+Our global statement of energy conservation is:
+$$\dfrac{dU_q}{dt} + \dfrac{dU_e}{dt} = -\iint \mathbf{S}\cdot d\mathbf{A}$$
+What does the integral term (without the minus sign) refer to?
+
+2. Total energy coming in
+3. Total energy going out
+3. Rate of total energy coming in
+4. Rate of total energy going out
+
+Note:
+* Correct Answer: D
+</section>
+
+<section data-markdown>
+## Announcements
+* Problem 4.3 on this past week's homework is completely extra credit
+  * My sincerest apologies for problems 3.5 and 4.3
+  * We can talk about 3.5 if y'all want (it's super interesting)
+* Quiz (next Friday 3/3) (Topic discussed this Friday!)
+* Your papers are due next Friday (3/3) by 5pm
+  * As usual, you will use GitHub to turn them in.
+</section>
+
+<section data-markdown>
+
 Consider a current $I$ flowing through a cylindrical resistor of length $L$ and radius $a$ with voltage $V$ applied. What is the E field inside the resistor?
 
 <img src="./images/cylindrical_resistor.png" align="center" style="width: 400px";/>
 
-1. $(V/a) \hat{z}$
-2. $(V/a) \hat{\phi}$
-3. $(V/a) \hat{s}$
-4. $(Vs/a^2) \hat{z}$
+1. $(V/L) \hat{z}$
+2. $(V/L) \hat{\phi}$
+3. $(V/L) \hat{s}$
+4. $(Vs/L^2) \hat{z}$
 5. None of the above
 
 Note:
