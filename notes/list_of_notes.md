@@ -22,3 +22,4 @@ permalink: notes/index.html
 * Lecture 16 (February 17th): Finalizing Maxwell's Equations [[HTML]](./16-slides.html) [[PDF]](./16-slides.pdf)
 * Lecture 17 (February 20th): Conservation Laws [[HTML]](./17-slides.html) [[PDF]](./17-slides.pdf)
 * Lecture 18 (February 22nd): Conservation of Energy [[HTML]](./18-slides.html) [[PDF]](./18-slides.pdf)
+* Lecture 19 (February 24th): Momentum and Angular Momentum in Fields [[HTML]](./19-slides.html) [[PDF]](./19-slides.pdf)
