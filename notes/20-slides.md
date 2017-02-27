@@ -11,7 +11,7 @@ transition: slide
 Feynman’s Paradox:
 Two charged balls are attached to a horizontal ring that can rotate  about a vertical axis without friction.  A solenoid with current I is on the axis.  Initially, everything is at rest.
 
-The current in the solenoid is turned off. What is the direction of $d\mathbf{E}/dt$ when viewed from the top?
+The current in the solenoid is turned off. What is the direction of the induced $\mathbf{E}$ when viewed from the top?
 
 1. 0
 2. CW.
