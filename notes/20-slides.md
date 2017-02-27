@@ -54,6 +54,18 @@ Note:
 
 <section data-markdown>
 
+## Announcements
+
+* Quiz Friday (Maxwell Ampere + Poynting Vector)
+  * Determine the electric and magnetic field in a situation where there is a displacement current
+  * Discuss the direction of the Poynting vector and how it relates to conservation of energy
+* Your papers are due Friday (3/3) by 5pm (20% of your grade BTW)
+    * As usual, you will use GitHub to turn them in.
+
+</section>
+
+<section data-markdown>
+
 A function, $f(x,t)$, satisfies this PDE:
 
 $$\dfrac{\partial^2 f}{\partial x^2} = \dfrac{1}{c^2}\dfrac{\partial^2 f}{\partial t^2}$$
@@ -164,5 +176,54 @@ Two impulse waves are approaching each other, as shown.  Which picture correctly
 Note:
 * Correct Answer: D
 
+
+</section>
+
+<section data-markdown>
+
+A solution to the wave equation is:
+$$f(z,t) = A \cos(kz – \omega t + \delta)$$
+
+* What is the speed of this wave?
+* Which way is it moving?
+* If $\delta$ is small (and >0), is this wave "delayed" or "advanced"?
+* What is the frequency?
+* The angular frequency?
+* The wavelength?
+* The wave number?
+
+
+</section>
+
+<section data-markdown>
+
+A solution to the wave equation is:
+$$f(z,t) = Re\left[A e^{i(kz – \omega t + \delta)}\right]$$
+
+* What is the speed of this wave?
+* Which way is it moving?
+* If $\delta$ is small (and >0), is this wave "delayed" or "advanced"?
+* What is the frequency?
+* The angular frequency?
+* The wavelength?
+* The wave number?
+
+
+</section>
+
+<section data-markdown>
+
+A complex solution to the wave equation in 3D is:
+
+$$\widetilde{f}(\mathbf{r},t) = \widetilde{A}e^{i(\mathbf{k}\cdot\mathbf{r}-\omega t)}$$
+
+
+* What is the speed of this wave?
+* Which way is it moving?
+* Why is there no $\delta$?
+* What is the frequency?
+* The angular frequency?
+* The wavelength?
+* The wave number?
 
 </section>
