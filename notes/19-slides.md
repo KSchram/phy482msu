@@ -138,34 +138,3 @@ Note:
 
 
 </section>
-
-<section data-markdown>
-
-<img src="./images/feynman_rotator.png" align="right" style="width: 250px";/>
-
-Feynman’s Paradox:
-Two charged balls are attached to a horizontal ring that can rotate  about a vertical axis without friction.  A solenoid with current I is on the axis.  Initially, everything is at rest.
-
-The current in the solenoid is turned off.
-What happens to the charges?
-
-1. They remain at rest
-2. They rotate CW.
-3. They rotate CCW.
-
-Note:
-* Correct Answer: B
-</section>
-
-<section data-markdown>
-
-Does the Feynman device violate Conservation of Angular Momentum?
-
-1. Yes
-2. No
-3. Neither, Cons of Ang Mom does not apply in this case.
-
-
-Note:
-* Correct Answer: B
-</section>
