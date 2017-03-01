@@ -24,3 +24,4 @@ permalink: notes/index.html
 * Lecture 18 (February 22nd): Conservation of Energy [[HTML]](./18-slides.html) [[PDF]](./18-slides.pdf)
 * Lecture 19 (February 24th): Momentum and Angular Momentum in Fields [[HTML]](./19-slides.html) [[PDF]](./19-slides.pdf)
 * Lecture 20 (February 27th): Introduction to Waves [[HTML]](./20-slides.html) [[PDF]](./20-slides.pdf)
+* Lecture 21 (March 1st): Electromagnetic Waves [[HTML]](./21-slides.html) [[PDF]](./21-slides.pdf)
