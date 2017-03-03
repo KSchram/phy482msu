@@ -25,3 +25,4 @@ permalink: notes/index.html
 * Lecture 19 (February 24th): Momentum and Angular Momentum in Fields [[HTML]](./19-slides.html) [[PDF]](./19-slides.pdf)
 * Lecture 20 (February 27th): Introduction to Waves [[HTML]](./20-slides.html) [[PDF]](./20-slides.pdf)
 * Lecture 21 (March 1st): Electromagnetic Waves [[HTML]](./21-slides.html) [[PDF]](./21-slides.pdf)
+* Lecture 22 (March 3rd): Energy and Momentum in Electromagnetic Waves [[HTML]](./22-slides.html) [[PDF]](./22-slides.pdf)
