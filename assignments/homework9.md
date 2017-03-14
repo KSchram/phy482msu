@@ -36,3 +36,9 @@ Specifically, what I mean by “work out” is:
 4. Again **in a Jupyter notebook**, replicate Griffiths Figure 9.17  (the one at the end of 9.3) but again, for this perpendicular polarization case, and again assuming $n_2/n_1=2.0$ and again using a computer to plot.  Show using your graph that $R+T=1$ for this situation, no matter what the angle. Briefly, comment on the physics!
 
 **Turn in parts 3 and 4 using GitHub classroom: [HW9Q4-FresnelGraph](https://classroom.github.com/assignment-invitations/58bd4f3998fb29a382322caa7f5851b7)**
+
+# 5. Paired Project Problem - Planning your project
+
+After reviewing the feedback you received on your project idea, work with your partner to consider the plan for the next 5 weeks. In doing this answer  the question: How do you intend to structure the work? Explain the details of what will be done and who will be doing what. The expectation is that you have written 2-3 paragraphs describing the work and a detailed timeline. Where applicable you should also describe the roles and responsbilities of each member of the group at different points in the timeline.
+
+**Each team will turn in a single repository using GitHub classroom. You will need to create a team and name it. Link to repository: [Project2](https://classroom.github.com/group-assignment-invitations/e06d32a433b91e60a2d397ef4d46079b)**
