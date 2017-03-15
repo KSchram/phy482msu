@@ -27,3 +27,4 @@ permalink: notes/index.html
 * Lecture 21 (March 1st): Electromagnetic Waves [[HTML]](./21-slides.html) [[PDF]](./21-slides.pdf)
 * Lecture 22 (March 3rd): Energy and Momentum in Electromagnetic Waves [[HTML]](./22-slides.html) [[PDF]](./22-slides.pdf)
 * Lecture 23 (March 13th): Electromagnetic Waves in Matter [[HTML]](./23-slides.html) [[PDF]](./23-slides.pdf)
+* Lecture 24 (March 15th): Reflection and Transmission [[HTML]](./24-slides.html) [[PDF]](./24-slides.pdf)
