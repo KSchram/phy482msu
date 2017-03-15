@@ -28,7 +28,7 @@ A light rope (small $m/L$) is fused to a heavy rope (large $m/L$). If I wiggle t
 4. ???
 
 Note:
-* Correct answer: A
+* Correct answer: B/C
 
 </section>
 
