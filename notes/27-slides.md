@@ -6,7 +6,7 @@ transition: slide
 
 <section data-markdown>
 
-An EM wave passes from air to metal, what does happens to the wave in the metal?
+An EM wave passes from air to metal, what happens to the wave in the metal?
 
 1. It will be amplified because of free electrons
 2. It will die out over some distance
