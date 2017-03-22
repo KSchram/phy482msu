@@ -30,3 +30,4 @@ permalink: notes/index.html
 * Lecture 24 (March 15th): Reflection and Transmission (Normal Incidence) [[HTML]](./24-slides.html) [[PDF]](./24-slides.pdf)
 * Lecture 25 (March 17th): Reflection and Transmission (Oblique Angle) [[HTML]](./25-slides.html) [[PDF]](./25-slides.pdf)
 * Lecture 26 (March 20th): EM Waves in Conductors [[HTML]](./26-slides.html) [[PDF]](./26-slides.pdf)
+* Lecture 17 (March 22nd): Results of EM Waves in Conductions [[HTML]](./27-slides.html) [[PDF]](./26-slides.pdf)
