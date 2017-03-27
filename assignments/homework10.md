@@ -24,7 +24,7 @@ $$f(x,t) = \int_{-\infty}^{\infty} A(k)e^{ik(x-ct)}dk$$
 
 1. Show that the $f(x,t)$ satfies the one-dimensional wave equation with wave speed, $c$.
 2. Assume that $A(k)$ is given by the a Gaussian distribution centered at some positive wavevector $k_0$:
-$$A(k)=\dfrac{1}{\sqrt{2 \pi \sigma^2}}\exp\left(-\dfrac{(k-k_0)^2\sigma^2}{2}\right)$$
+$$A(k)=\dfrac{1}{\sqrt{2 \pi \sigma^2}}\exp\left(-\dfrac{(k-k_0)^2}{2\sigma^2}\right)$$
 Sketch this function, Roughly what range of wavevectors $\Delta k$ contribute signficantly to the wave packet?
 3. Calculate $f(x,t)$ from the above $A(k)$. There is a famous and handy Gaussian integral that can be helpful here that works for any $z$ even complex ones! $$\int_{-\infty}^{\infty} \exp\left(-\dfrac{q^2y^2}{2}+zy\right)dy = \sqrt{\dfrac{2\pi}{q^2}}\exp\left(\dfrac{z^2}{2q^2}\right)$$
 4. Describe $f(x,t)$ physically as best you can. How is the $x$-width, $\Delta x$ of the "wavepacket" related to the $k$-width $\Delta k$? Does this relationship between $\Delta x$ and $\Delta k$ remind you of anything from quantum mechanics (PHY 215 or 471)?
