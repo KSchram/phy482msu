@@ -32,4 +32,5 @@ permalink: notes/index.html
 * Lecture 26 (March 20th): EM Waves in Conductors [[HTML]](./26-slides.html) [[PDF]](./26-slides.pdf)
 * Lecture 27 (March 22nd): Results of EM Waves in Conductors [[HTML]](./27-slides.html) [[PDF]](./26-slides.pdf)
 * Lecture 28 (March 27th): Dispersion [[HTML]](./28-slides.html) [[PDF]](./28-slides.pdf)
-* Lecture 29 (March 29th): Model for Dispersive Media [[HTML]](./29-slides.html) [[PDF]](./29-slides.pdf)
+* Lecture 29 (March 29th): Dispersion II [[HTML]](./29-slides.html) [[PDF]](./29-slides.pdf)
+* Lecture 30 (March 31st): Group and Phase Velocity, Model for Dispersive Media [[HTML]](./30-slides.html) [[PDF]](./30-slides.pdf)

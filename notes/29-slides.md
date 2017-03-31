@@ -69,16 +69,3 @@ Note:
 * Correct Answer: D
 
 </section>
-
-<section data-markdown>
-
-For our atomic model of permittivity we found $\widetilde{\varepsilon}$ to be
-
-$$\widetilde{\varepsilon} = \varepsilon_0\left(1+\dfrac{Nq^2}{\varepsilon_0 m}\sum_i \dfrac{f_i}{(\omega_i^2-\omega^2)-i\gamma_i\omega}\right)$$
-
-We also know that $\dfrac{n}{c} = \dfrac{\widetilde{k}}{\omega} = \sqrt{\widetilde{\varepsilon}\mu}.$
-* Find (and simplify) a formula for $n$, assuming the term adding to "1" above is small.
-* In that limit, find $k_R$ and $k_I$. What does each one tell you, physically?
-* Sketch both of these as functions of $\omega$ (assuming that only one term in that sum "dominates")
-
-</section>
