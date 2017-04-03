@@ -31,7 +31,7 @@ Consider a neutral plasma (gas of electrons and positive ions), with electron
 density $N_e$. At high frequencies, because the ions are very heavy, we can consider them to be essentially fixed and any current due solely to the light electrons. The total charge density can be set to zero for an electrically neutral gas.
 
 1. Use Maxwell's Equations to derive the wave equation for the electric field: $\nabla^2 \mathbf{E} -\dfrac{1}{c^2}\dfrac{\partial^2}{\partial t^2}\mathbf{E} = \mu_0 \dfrac{\partial}{\partial t}\mathbf{J}$
-2. For a monochromatic wave, $\mathbf{E} = Re(\widetilde{\mathbf{E}} e^{−i\omega t})$, and ignoring any collision between electrons (mass $m_e$), use Ohm's law to relate $\mathbf{E}$ and $\mathbf{J}$ and show that $\left(\nabla^2 + \dfrac{\omega^2}{c^2}\right)\widetilde{\mathbf{E}} = \dfrac{\omega_p^2}{c^2}\widetilde{\mathbf{E}}$ where $\omega_p^2 = \dfrac{N_e e^2}{\varepsilon_0 m_e}$ is the plasma frequency.
+2. For a monochromatic wave, $\mathbf{E} = Re(\widetilde{\mathbf{E}} e^{−i\omega t})$, and ignoring any collision between electrons (mass $m_e$), use Newton's law to relate $\mathbf{E}$ and $\mathbf{J}$ and show that $\left(\nabla^2 + \dfrac{\omega^2}{c^2}\right)\widetilde{\mathbf{E}} = \dfrac{\omega_p^2}{c^2}\widetilde{\mathbf{E}}$ where $\omega_p^2 = \dfrac{N_e e^2}{\varepsilon_0 m_e}$ is the plasma frequency.
 3. Derive the dispersion relation $k=\sqrt{\omega^2-\omega_p^2}/c$. Sketch the graph of $\omega(k)$.
 4. Give the real elecrtic field when $\omega < \omega_p$.
 
