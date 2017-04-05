@@ -35,3 +35,4 @@ permalink: notes/index.html
 * Lecture 29 (March 29th): Dispersion II [[HTML]](./29-slides.html) [[PDF]](./29-slides.pdf)
 * Lecture 30 (March 31st): Group and Phase Velocity, Model for Dispersive Media [[HTML]](./30-slides.html) [[PDF]](./30-slides.pdf)
 * Lecture 31 (April 3rd): Introduction to Special Relativity [[HTML]](./31-slides.html) [[PDF]](./31-slides.pdf)
+* Lecture 32 (April 5th): Time Dilation, Length Contraction, and Particle Decay [[HTML]](./32-slides.html) [[PDF]](./32-slides.pdf)

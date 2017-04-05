@@ -21,7 +21,7 @@ Two major results of special relativity are Time Dilation and Lorentz Contractio
 
 ## Announcements
 
-* Quiz 6 (Next Friday)
+* Quiz 6 (This Friday)
   * Given two infinite plane waves at different frequencies, determine the resulting wave in a "good conductor"
   * Sketch the waves in free space and in the conductor
   * Discuss the implications from your analysis
@@ -152,53 +152,4 @@ In the frame of reference of the ground, the light strikes the back of the train
 
 Note:
 * Correct Answer: A
-</section>
-
-<section data-markdown>
-
-<img src="./images/light_clock.png" align="center" style="width: 700px";/>
-
-In which frame of reference is the time between tics of the clock **longer**?
-
-1. Rest frame of clock
-2. moving frame
-3. no difference
-
-Note:
-* Correct Answer: B
-
-</section>
-
-<section data-markdown>
-
-<img src="./images/light_clock.png" align="center" style="width: 700px";/>
-
-What is the **minimum** number of observers needed in the **rest frame** to measure the "tic"?
-
-1. 1
-2. 2
-3. 3
-4. More than 3
-5. ???
-
-Note:
-* Correct Answer: A
-
-</section>
-
-<section data-markdown>
-
-<img src="./images/light_clock.png" align="center" style="width: 700px";/>
-
-What is the **minimum** number of observers needed in the **moving frame** to measure the "tic"?
-
-1. 1
-2. 2
-3. 3
-4. More than 3
-5. ???
-
-Note:
-* Correct Answer: B
-
 </section>
