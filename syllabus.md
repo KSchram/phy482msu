@@ -141,7 +141,7 @@ After Homework 7 (Fri. Mar 3), your paper is due. It should be 3-4 pages long no
 
 #### Grading the individual project
 
-A rubric for the individual project [appears here](./paperrubric.html). Notice that the rubric emphasizes several aspects of the paper with different weights. Each category will be scored on the following scale (4.0, 3.5, 3.0, 2.0, 0.0) and then averaged together using the weights for each category. You final grade will be this averaged score converted to a 100 point scale.
+A rubric for the individual project [appears here](./paperrubric.html). Notice that the rubric emphasizes several aspects of the paper with different weights. Each category will be scored on the following scale (4.0, 3.5, 3.0, 2.0, 0.0) and then averaged together using the weights for each category. Your final grade will be this averaged score converted to a 100 point scale.
 
 #### Pair Project
 
@@ -165,6 +165,10 @@ There will be six homework questions (10 if you count the 4 self-reflection home
 - **Homework 13** - Finally, you should produce an abstract for your poster. You should have a self-contained paragraph on what you will present in your poster. There will also be a self-reflection homework problem - Who did what? What questions were you able to answer last week? What questions do you need to answer to continue to move forward? What help do you need from me or others?
 
 After Homework 13 (Mon. May 1st - during our final exam period), your poster is due. You and your teammate will present your poster to your classmates and myself. Your poster and presentation will be graded by me. But, you will also be given evaluation sheets for your classmates' posters, which I'll ask that you share with them (anonymously if you like). Your participation in the evaluation of your classmates' posters counts towards your grade on your poster. There will also be a self-reflection/evaluation component to this assignment that asks you: Who did what? What did you learn? What did you want to learn more about? What was straight-forward? What was more difficult? Completion of this self-reflection/evaluation will also count towards the overall grade on your poster.
+
+#### Grading the pair project
+
+A rubric for the individual project [appears here](./posterrubric.html). Notice that the rubric emphasizes several aspects of the poster with different weights. Each category will be scored on the following scale (4.0, 3.5, 3.0, 2.0, 0.0) and then averaged together using the weights for each category. Your final grade will be this averaged score converted to a 100 point scale.
 
 ## Grading
 
