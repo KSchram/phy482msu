@@ -37,3 +37,4 @@ permalink: notes/index.html
 * Lecture 31 (April 3rd): Introduction to Special Relativity [[HTML]](./31-slides.html) [[PDF]](./31-slides.pdf)
 * Lecture 32 (April 5th): Time Dilation, Length Contraction, and Particle Decay [[HTML]](./32-slides.html) [[PDF]](./32-slides.pdf)
 * Lecture 33 (April 7th): Lorentz Transformations [[HTML]](./33-slides.html) [[PDF]](./33-slides.pdf)
+* Lecture 34 (April 10th): Lorentz Transformations II [[HTML]](./34-slides.html) [[PDF]](./34-slides.pdf)
