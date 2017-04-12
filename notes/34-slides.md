@@ -100,23 +100,3 @@ what happens when $v$ is $c$?
 Note:
 * Correct Answer: B
 </section>
-
-<section data-markdown>
-
-Displacement is a defined quantity
-
-$$\Delta x^{\mu} \equiv \left(x^{\mu}_A - x^{\mu}_B\right)$$
-
-Is the displacement a contravariant 4-vector?
-
-1. Yes
-2. No
-3. Umm...don't know how to tell
-4. None of these.
-
-**Be ready to explain your answer.**
-
-Note:
-* Correct Answer: A
-
-</section>
