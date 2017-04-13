@@ -19,7 +19,7 @@ We derived the transformation of velocity in 1D (i.e., when there is one frame m
 $$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
 
 1. Derive the relationship between the velocity components in each frame (for both the $y$ and $z$ directions) for the same scenario. Recall that length measurements will be the same in both frames!
-2. Derive the relationship between the acceleration measured in the $S$ frame and the $S'$ frame in each coordinate direction.
+2. Derive the relationship between the acceleration measured in the $S$ frame and the $S'$ frame in just the x-direction.
 3. Show check the limits of your results in part 2 when $v$ approaches 0. Does you result make sense? What about when $v$ approaches $c$?
 
 ## 3. Rapidity
