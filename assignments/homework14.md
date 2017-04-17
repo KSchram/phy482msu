@@ -65,6 +65,7 @@ With the current density 4-vector written as this: $J^{\mu} = (c\rho,J_x,J_y,J_z
 $$\dfrac{\partial F^{\mu\nu}}{\partial x^{\nu}} = \mu_0 J^{\mu}, \qquad \dfrac{\partial G^{\mu\nu}}{\partial x^{\nu}} = 0$$
 
 1. Show by explicit calculation that you can recover all 4 Maxwell's equations.
+2. What would have happened if $\dfrac{\partial G^{\mu\nu}}{\partial x^{\nu}} \neq 0$? Think about what happens physically?! It must be zero!
 
 
 ## Self-Reflection (PHY 481 and 482)
