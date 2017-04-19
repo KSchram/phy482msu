@@ -144,20 +144,3 @@ Note:
 * Correct Answer: B
 
 </section>
-
-
-<section data-markdown>
-
-$$E-E_{rest} = (\gamma - 1) mc^2$$
-
-What happens to the difference in the total and rest energies when the particle speed ($u$) is much smaller than $c$?
-
-1. It goes to zero
-2. It goes to $m\,c^2$
-3. It goes to $1/2\,m\,u^2$
-4. It depends
-
-Note:
-* Correct answer: C
-
-</section>
