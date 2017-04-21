@@ -41,4 +41,5 @@ permalink: notes/index.html
 * Lecture 35 (April 12th): Four vectors [[HTML]](./35-slides.html) [[PDF]](./35-slides.pdf)
 * Lecture 36 (April 14th): Four vectors II [[HTML]](./36-slides.html) [[PDF]](./36-slides.pdf)
 * Lecture 37 (April 17th): Minkowski Diagrams and Invariants [[HTML]](./37-slides.html) [[PDF]](./37-slides.pdf)
-* Lecture 38 (April 19th): Momentum, Energy, and Collisions [[HTML]](./38-slides.html) [[PDF]](./38-slides.pdf)
+* Lecture 38 (April 19th): Momentum, Energy [[HTML]](./38-slides.html) [[PDF]](./38-slides.pdf)
+* Lecture 39 (April 21st): Relativistic Collisions [[HTML]](./39-slides.html) [[PDF]](./39-slides.pdf)
