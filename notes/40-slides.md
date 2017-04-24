@@ -76,7 +76,7 @@ Note:
   * Replaces second-lowest HW grade
 * Last class (Friday)
   * Wrap up and discussion
-* Poster presentations (Monday, May 1 from 3-5pm in 1400 BPS)
+* Poster presentations (Monday, May 1 from 3-5pm in 1300 BPS)
   * Hand out list of posters to review
   * Hand out review sheets to complete
 
