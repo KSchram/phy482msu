@@ -43,3 +43,4 @@ permalink: notes/index.html
 * Lecture 37 (April 17th): Minkowski Diagrams and Invariants [[HTML]](./37-slides.html) [[PDF]](./37-slides.pdf)
 * Lecture 38 (April 19th): Momentum, Energy [[HTML]](./38-slides.html) [[PDF]](./38-slides.pdf)
 * Lecture 39 (April 21st): Relativistic Collisions [[HTML]](./39-slides.html) [[PDF]](./39-slides.pdf)
+* Lecture 40 (April 23rd): Electrodynamics and Relativity [[HTML]](./40-slides.html) [[PDF]](./40-slides.pdf)
