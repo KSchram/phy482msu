@@ -54,7 +54,7 @@ and the dual tensor like this,
 $$G^{\mu\nu}=\left(
 \begin{array}{cccc}
   0 & B_x & B_y & B_z\\
-  -B_x & 0 & -E_z/c & -E_y/c\\
+  -B_x & 0 & -E_z/c & E_y/c\\
   -B_y & E_z/c & 0 & -E_x/c\\
   -B_z & -E_y/c & E_x/c & 0\\
 \end{array}
